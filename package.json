@@ -1,0 +1,19 @@
+{
+  "name": "vm---modelodeschamps",
+  "version": "1.0.0",
+  "description": "Video - Maker (Modelo Deschamps) - Vídeos Auotmatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZicBusiness/VM---ModeloDeschamps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZicBusiness/VM---ModeloDeschamps/issues"
+  },
+  "homepage": "https://github.com/ZicBusiness/VM---ModeloDeschamps#readme"
+}
