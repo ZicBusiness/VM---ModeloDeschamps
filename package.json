@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ZicBusiness/VM---ModeloDeschamps/issues"
   },
-  "homepage": "https://github.com/ZicBusiness/VM---ModeloDeschamps#readme"
+  "homepage": "https://github.com/ZicBusiness/VM---ModeloDeschamps#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
